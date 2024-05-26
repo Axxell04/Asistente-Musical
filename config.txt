@@ -1,0 +1,1 @@
+{"nombre": "max", "volumen": 1.0, "velocidad": 150}

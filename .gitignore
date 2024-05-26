@@ -1,0 +1,6 @@
+venv/
+music/
+model/
+.vscode/
+__pycache__/
+tests.py
