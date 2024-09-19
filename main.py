@@ -23,7 +23,7 @@ class Main():
 
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 #    inst_interfaz = interfaz.Demo()
 #    inst_interfaz.fps_monitor_start()
     inst_main = Main()
